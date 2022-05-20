@@ -1,1 +1,1 @@
-new read me since my commit message is not correct one
+this read me file is now being updated from github repository not from git terminal
